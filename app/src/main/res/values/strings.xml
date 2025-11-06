@@ -1,6 +1,7 @@
 <resources>
-    <string name="app_name">Login</string>
+    <string name="app_name">AndroidStudio Login</string>
     <string name="hint_username">Usuário</string>
     <string name="hint_password">Senha</string>
     <string name="btn_login">Entrar</string>
+    <string name="desc_profile_image">Imagem de perfil do usuário</string>
 </resources>
