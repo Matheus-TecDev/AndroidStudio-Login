@@ -1,7 +1,16 @@
 <resources>
-    <string name="app_name">AndroidStudio Login</string>
-    <string name="hint_username">Usuário</string>
+    <string name="app_name">Login</string>
+
+    <!-- Textos principais -->
+    <string name="hint_user">Usuário</string>
     <string name="hint_password">Senha</string>
     <string name="btn_login">Entrar</string>
-    <string name="desc_profile_image">Imagem de perfil do usuário</string>
+    <string name="text_register">Ainda não tem uma conta? Cadastre-se</string>
+
+    <!-- Descrições para acessibilidade -->
+    <string name="cd_profile_image">Imagem de perfil</string>
+    <string name="cd_user_icon">Ícone de usuário</string>
+    <string name="cd_password_icon">Ícone de senha</string>
+    <string name="cd_login_button">Botão de login</string>
+    <string name="cd_register_text">Texto de cadastro</string>
 </resources>
