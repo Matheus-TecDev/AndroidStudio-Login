@@ -1,8 +1,7 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
 
-    <!-- Tema base -->
     <style name="Base.Theme.Login" parent="Theme.Material3.DayNight.NoActionBar">
-        <!-- Paleta principal azul -->
+
         <item name="colorPrimary">@color/blue_500</item>
         <item name="colorOnPrimary">@android:color/white</item>
 
@@ -11,17 +10,14 @@
 
         <item name="colorTertiary">@color/blue_200</item>
 
-        <!-- Cores de fundo e superfície -->
         <item name="colorSurface">@color/blue_50</item>
-        <item name="colorBackground">@color/blue_50</item>
+        <item name="android:colorBackground">@color/blue_50</item>
 
-        <!-- Botões e controles -->
         <item name="android:colorAccent">@color/blue_500</item>
         <item name="android:textColorHint">@color/blue_700</item>
         <item name="android:colorControlHighlight">@color/blue_200</item>
     </style>
 
-    <!-- Tema aplicado na aplicação -->
     <style name="Theme.Login" parent="Base.Theme.Login" />
 
 </resources>
